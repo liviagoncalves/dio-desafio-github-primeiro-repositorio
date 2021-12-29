@@ -1,0 +1,13 @@
+Comandos Git e GitHub
+
+iniciar a pasta - git init
+verificar status - git status
+aciciona git add * (adicionar tudo), git add <arquivo>(adiciona um arquivo especifico
+git commit -m   
+git remote add origin endereço do repositorio
+git remote -v
+
+git remote set-url origin endereço do repositorio
+
+
+git push -u origin master 
